@@ -1,94 +1,328 @@
-# 💫 About Me:
-👋 Hi, I'm Harish<br><br>🎓 B.Tech CSE (AI & ML) Student<br><br>🎮 Aspiring Game Developer | Unity | C#<br><br>🤖 AI & Machine Learning | Python<br><br>💻 Interested in building creative games and AI-powered applications<br><br>🚀 Currently learning, building projects, and improving my development skills
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HARISH&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harish-unity) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kharishk2006@gmail.com) 
+<br>
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=🎮+Aspiring+Game+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🕹️+Unity+%7C+C%23+%7C+Python;🚀+Building+Ideas+Into+Interactive+Experiences" />
 
-### 👨‍💻 Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br><br>
+
+<a href="https://github.com/kharishk2006-debug">
+<img src="https://komarev.com/ghpvc/?username=kharishk2006-debug&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+</a>
+
+</div>
+
+---
+
+## 🌌 `WHO AM I?`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👋 Hi, I'm Harish                                          │
+│                                                              │
+│   🎓 B.Tech CSE (AI & ML) Student                            │
+│                                                              │
+│   🎮 Aspiring Game Developer                                 │
+│                                                              │
+│   🤖 AI & Machine Learning Enthusiast                        │
+│                                                              │
+│   🕹️ Unity • C# • Python                                    │
+│                                                              │
+│   🚀 Building games, AI systems & creative projects          │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+I'm passionate about **Game Development and Artificial Intelligence**.
+
+I enjoy creating interactive experiences with **Unity & C#** and building practical AI/ML applications using **Python**.
+
+My long-term goal is to explore the intersection of **🎮 Game Development + 🤖 AI** and build unique intelligent experiences.
+
+---
+
+# 🎮 GAME DEVELOPMENT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+</div>
+
+### 🕹️ What I'm Exploring
+
+```text
+🎮 Game Mechanics
+   ├── Player Movement
+   ├── Lane Switching
+   ├── Collision Systems
+   ├── Score Systems
+   └── Game Progression
+
+🧩 Game Systems
+   ├── Object Pooling
+   ├── Spawning Systems
+   ├── UI Systems
+   ├── Game Manager
+   └── Level Systems
+
+⚡ Development
+   ├── Unity Engine
+   ├── C# Scripting
+   ├── Gameplay Programming
+   └── Performance Optimization
+```
+
+---
+
+# 🤖 AI & MACHINE LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</div>
+
+### 🧠 Areas I'm Learning
+
+|           🧠 Area          | 🔍 Focus                      |
+| :------------------------: | :---------------------------- |
+|     🤖 Machine Learning    | Classification • Regression   |
+|      🧬 Deep Learning      | Neural Networks • CNN         |
+|     👁️ Computer Vision    | Image Processing • Detection  |
+|       📊 Data Science      | Data Analysis • Visualization |
+|          🐍 Python         | AI/ML Development             |
+| 🧠 Artificial Intelligence | Intelligent Applications      |
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏙️ SKY CITY
+
+🎮 **Endless Runner Game**
+
+A Unity-based endless runner focused on creating a complete gameplay experience.
+
+**Features**
+
+🏃 Player Movement
+↔️ Lane Switching
+⚡ Energy Collection
+🚧 Obstacles
+🎯 Score System
+💥 Collision System
+🔄 Object Pooling
+
+**Stack**
+
+`Unity` `C#`
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI CAREER COACH
+
+🧠 **AI-Powered Application**
+
+An AI system that analyzes resumes and compares them with job descriptions.
+
+**Features**
+
+📄 Resume Analysis
+📊 ATS Score
+🎯 JD Matching
+🔍 Missing Skills
+💡 Suggestions
+🎤 AI Interview
+
+**Stack**
+
+`Python` `Streamlit` `AI/ML`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚁 AUTONOMOUS DRONE
+
+🤖 **AI + Robotics Project**
+
+An autonomous delivery drone prototype combining navigation and computer vision.
+
+**Features**
+
+📍 GPS Navigation
+📦 Payload Release
+🔎 ArUco Detection
+🔐 OTP Verification
+📱 App Integration
+
+**Stack**
+
+`Python` `Computer Vision` `GPS`
+
+</td>
+
+<td width="50%">
+
+### 🔮 FUTURE PROJECTS
+
+🚀 **More Coming Soon...**
+
+I'm continuously working on new ideas involving:
+
+🎮 Game Development
+🤖 Artificial Intelligence
+👁️ Computer Vision
+🧠 Machine Learning
+
+**Stay tuned!**
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ TECH ARSENAL
+
+<div align="center">
 
 ### 🎮 Game Development
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
 
-### 🤖 AI / Machine Learning
+<br><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🤖 AI / ML
 
-### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br><br>
 
----
+### 🛠️ Tools
 
-## 🎮 Featured Projects
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-### 🏙️ SKY CITY
-An endless runner game developed using **Unity and C#**.
-
-**Features:**
-- 🏃 Player movement
-- 🛣️ Lane switching
-- ⚡ Energy collection
-- 🚧 Obstacles
-- 🎯 Score system
-- 💥 Collision & Game Over system
-
-**Tech:** `Unity` `C#`
+</div>
 
 ---
 
-### 🤖 AI Career Coach & Resume Tailor
+# 📊 GITHUB PERFORMANCE
 
-An AI-powered application designed to analyze resumes and compare them with job descriptions.
+<div align="center">
 
-**Features:**
-- 📄 Resume PDF analysis
-- 🤖 AI Resume Analysis
-- 📊 ATS Score
-- 🎯 Job Description Matching
-- 🔍 Missing Skills Detection
-- 💡 Resume Improvement Suggestions
-- 🎤 AI Interview Module
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=kharishk2006-debug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-**Tech:** `Python` `Streamlit` `AI/ML`
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kharishk2006-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=kharishk2006-debug&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kharishk2006-debug&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT MISSION
+
+<div align="center">
 
 ```text
-🎮 Unity & Game Development
-🤖 Artificial Intelligence
-🧠 Machine Learning
-🐍 Advanced Python
-👁️ Computer Vision
+              🎓 B.Tech CSE (AI & ML)
+                         │
+                         ▼
+                🐍 MASTER PYTHON
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+        🤖 AI / ML              🎮 UNITY
+              │                     │
+              ▼                     ▼
+       👁️ COMPUTER VISION        💻 C#
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                  🚀 BUILD PROJECTS
+                         │
+                         ▼
+                🎮 + 🤖 AI EXPERIENCES
 ```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kharishk2006-debug&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kharishk2006-debug&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kharishk2006-debug&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kharishk2006-debug&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kharishk2006-debug&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kharishk2006-debug&icon=7&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌱 CURRENTLY LEARNING
+
+<div align="center">
+
+`🎮 Unity`   `💻 C#`   `🤖 Machine Learning`
+
+`👁️ Computer Vision`   `🧠 Deep Learning`   `🐍 Python`
+
+</div>
+
+---
+
+# 🔗 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harish-unity">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kharishk2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kharishk2006-debug">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+## *"Build the game. Train the model. Create the future."* 🚀
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=🎮+Game+Development;🤖+Artificial+Intelligence;🧠+Machine+Learning;🚀+Always+Building+Something+New"/>
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
+
+<!-- Profile README created for Harish -->
