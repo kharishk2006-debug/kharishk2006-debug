@@ -1,65 +1,27 @@
-<div align="center">
+# 💫 About Me:
+👋 Hi, I'm Harish<br><br>🎓 B.Tech CSE (AI & ML) Student<br><br>🎮 Aspiring Game Developer | Unity | C#<br><br>🤖 AI & Machine Learning | Python<br><br>💻 Interested in building creative games and AI-powered applications<br><br>🚀 Currently learning, building projects, and improving my development skills
 
-# 👋 Hi, I'm Harish
 
-### 🎮 Aspiring Game Developer &nbsp; | &nbsp; 🤖 AI & Machine Learning
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harish-unity) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kharishk2006@gmail.com) 
 
-<p>
-  <b>B.Tech CSE (AI & ML) Student</b>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kharishk2006-debug&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kharishk2006-debug&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kharishk2006-debug&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-  I build interactive games, AI-powered applications, and creative technology projects.
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kharishk2006-debug&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 **B.Tech Computer Science Engineering (AI & ML)** student passionate about technology and creative problem solving.
-
-🎮 My primary focus is **Game Development**, where I am learning to build interactive experiences using **Unity and C#**.
-
-🤖 I am also passionate about **Artificial Intelligence & Machine Learning**, especially building practical AI-powered applications using **Python**.
-
-### 💡 What I Do
-
-- 🎮 Build games using **Unity & C#**
-- 🤖 Develop **AI & Machine Learning projects**
-- 👁️ Explore **Computer Vision**
-- 🐍 Build projects using **Python**
-- 🧠 Learn and experiment with new AI technologies
-- 🚀 Turn ideas into working projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kharishk2006-debug&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kharishk2006-debug&icon=7&color=2)](https://visitcount.itsvg.in)
 
-# 🎮 Game Development
-
-<div align="center">
-
-### 🕹️ Unity • C# • Game Mechanics • Game Systems
-
-</div>
-
-I'm currently developing my skills in:
-
-```text
-🎮 Unity Engine
-   ├── Player Movement
-   ├── Game Mechanics
-   ├── Collision Systems
-   ├── UI Systems
-   ├── Score & Progression
-   └── Game Optimization
-
-💻 C#
-   ├── Object-Oriented Programming
-   ├── Game Logic
-   ├── Scripts
-   └── Unity Systems
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
