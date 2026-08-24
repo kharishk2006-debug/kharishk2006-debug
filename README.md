@@ -72,6 +72,7 @@ An AI-powered application designed to analyze resumes and compare them with job 
 🧠 Machine Learning
 🐍 Advanced Python
 👁️ Computer Vision
+```
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kharishk2006-debug&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
