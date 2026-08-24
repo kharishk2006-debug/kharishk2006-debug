@@ -93,11 +93,36 @@
 
 <td width="50%" valign="top">
 
+## 🤖 AI CAREER COACH
+
+### 🧠 AI-Powered Resume & Career Assistant
+
+A completed AI-powered application designed to analyze resumes, evaluate ATS compatibility, and compare resumes with job descriptions.
+
+**Features**
+
+📄 Resume PDF Analysis
+📊 ATS Score
+🎯 Job Description Matching
+🔍 Missing Skills Detection
+💡 Resume Improvement Suggestions
+🎤 AI Interview Module
+
+**Tech Stack**
+
+`Python` `Streamlit` `AI/ML`
+
+**Status:** ✅ Completed
+
+</td>
+
+<td width="50%" valign="top">
+
 ## 🏙️ SKY CITY
 
 ### 🎮 Endless Runner Game
 
-A Unity-based endless runner game focused on creating an interactive gameplay experience.
+An ongoing Unity game development project focused on building an interactive endless runner experience.
 
 **Features**
 
@@ -114,28 +139,7 @@ A Unity-based endless runner game focused on creating an interactive gameplay ex
 
 `Unity` `C#`
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 AI CAREER COACH
-
-### 🧠 AI-Powered Application
-
-An AI-powered application that analyzes resumes and compares them with job descriptions.
-
-**Features**
-
-📄 Resume Analysis
-📊 ATS Score
-🎯 Job Description Matching
-🔍 Missing Skills Detection
-💡 Resume Improvement Suggestions
-🎤 AI Interview Module
-
-**Tech Stack**
-
-`Python` `Streamlit` `AI/ML`
+**Status:** 🚧 In Development
 
 </td>
 
